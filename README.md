@@ -3,7 +3,7 @@ This project is built within Node.js and includes authentication using Passport.
 You can register and sign in to view a dashboard site, which displays the user's name. <br />
 The users are stored within a MongoDB database. <br />
 
-#Install instructions
+# Install instructions
 Fork or download this repository <br />
 Open the terminal and change into this project's directory <br />
 Run npm i <br />
